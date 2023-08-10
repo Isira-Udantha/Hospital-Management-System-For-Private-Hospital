@@ -1,0 +1,4 @@
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagementBL\bin\Debug\HostpitalManagementBL.dll
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagementBL\bin\Debug\HostpitalManagementBL.pdb
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagementBL\obj\Debug\HostpitalManagementBL.dll
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagementBL\obj\Debug\HostpitalManagementBL.pdb

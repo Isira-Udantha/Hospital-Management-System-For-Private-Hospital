@@ -1,0 +1,13 @@
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\obj\x86\Debug\HostpitalManagement.Properties.Resources.resources
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\obj\x86\Debug\HostpitalManagement.csproj.GenerateResource.Cache
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\bin\Debug\HostpitalManagement.exe
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\bin\Debug\HostpitalManagement.pdb
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\obj\x86\Debug\HostpitalManagement.exe
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\obj\x86\Debug\HostpitalManagement.pdb
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\obj\x86\Debug\HostpitalManagement.csprojResolveAssemblyReference.cache
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\obj\x86\Debug\HostpitalManagement.FrmDoctorsRegistration.resources
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\obj\x86\Debug\HostpitalManagement.frm_PatientRegistration.resources
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\bin\Debug\HostpitalManagementBL.dll
+C:\Users\Thilina\Desktop\.Net Exe\HostpitalManagement\HostpitalManagement\bin\Debug\HostpitalManagementBL.pdb
+F:\sirge\HostpitalManagement\HostpitalManagement\obj\x86\Debug\HostpitalManagement.exe
+F:\sirge\HostpitalManagement\HostpitalManagement\obj\x86\Debug\HostpitalManagement.pdb

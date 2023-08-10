@@ -1,0 +1,5 @@
+E:\Education\Software Engineering\Hospital\Hospital_Management_System\Hospital_ManagementBL\bin\Debug\Hospital_ManagementBL.dll
+E:\Education\Software Engineering\Hospital\Hospital_Management_System\Hospital_ManagementBL\bin\Debug\Hospital_ManagementBL.pdb
+E:\Education\Software Engineering\Hospital\Hospital_Management_System\Hospital_ManagementBL\obj\Debug\Hospital_ManagementBL.csprojResolveAssemblyReference.cache
+E:\Education\Software Engineering\Hospital\Hospital_Management_System\Hospital_ManagementBL\obj\Debug\Hospital_ManagementBL.dll
+E:\Education\Software Engineering\Hospital\Hospital_Management_System\Hospital_ManagementBL\obj\Debug\Hospital_ManagementBL.pdb
