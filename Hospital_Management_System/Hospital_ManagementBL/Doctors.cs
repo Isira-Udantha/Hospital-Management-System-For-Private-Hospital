@@ -15,6 +15,7 @@ namespace Hospital_ManagementBL
             DbCommand command = GenericDataAccess.CreateDbCommand();
             //providing the store doctor name
             command.CommandText = "ListDoctor";
+            //This is the methode to execute the command
 
             //create dataase object to populate results
             DataTable table = new DataTable();
